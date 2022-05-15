@@ -6,4 +6,4 @@ Hey :)
    To solve this, just press "Knit" one more time, and the HTML will open properly. 
 
 Thanks!
-Aharon, Paz, and Noa
+Paz
